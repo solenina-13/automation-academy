@@ -1,2 +1,3 @@
 Mensaje de conflicto creado en la primera fila de este branch
 yuki al poder no conflictuoso
+nueva linea para conflicto 
